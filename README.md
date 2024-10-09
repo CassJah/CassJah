@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm Javan, but you can call me **CassJah**. Here’s a bit
 - 🌀 Love blending **tech** with **electric skateboarding**—check out my brand, Chillboarders Aotearoa.
 - 👯 Open to vibing on cool projects, especially if they match my style.
 - 💬 Chat to me about **geotech**, **AI**, or **coding**—I’m always up for a kōrero.
-- 📫 Flick me a message at [your_email@example.com], or take a look at [Chillboarders Aotearoa](your_website_link).
+- 📫 Flick me a message at [j.cassidy@outlook.co.nz], or take a look at [Chillboarders Aotearoa]("coming soon").
 - ⚡ Fun fact: Chillboarders is where skate culture meets "laidback since wayback" vibes 🏄‍♂️🔥
 
 🌿 _Kia kaha_—keep it real and keep growing.
