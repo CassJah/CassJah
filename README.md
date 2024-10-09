@@ -1,12 +1,13 @@
-## Hi there 👋
+## Kia ora 👋
 
-Welcome to my GitHub profile! I'm Javan, also known as **CassJah**. Here's a little about me:
+Welcome to my GitHub! I'm Javan, but you can call me **CassJah**. Here’s a bit about what I’m up to:
 
-- 🔭 I’m currently working on integrating AI with geotechnical engineering and developing full-stack applications.
-- 🌱 I’m constantly learning and evolving my skills in cloud computing, full-stack development, and AI.
-- 👯 I’m open to collaborations on innovative tech projects, particularly those that blend tech with real-world applications like electric skateboarding.
-- 💬 Feel free to ask me about geotechnical engineering, AI integration, and software development.
-- 📫 You can reach me at [your_email@example.com] or check out my work at [Chillboarders Aotearoa](your_website_link).
-- ⚡ Fun fact: I run Chillboarders Aotearoa, where I combine my love for skate culture with tech innovation!
+- 🔭 Right now, I’m mixing AI with geotechnical engineering and full-stack development.
+- 🌱 Always learning—cloud, AI, full-stack... just keen to explore what’s out there.
+- 🌀 Love blending **tech** with **Māori culture** and **electric skateboarding**—check out my brand, Chillboarders Aotearoa.
+- 👯 Open to vibing on cool projects, especially if they match my style.
+- 💬 Chat to me about **geotech**, **AI**, or **coding**—I’m always up for a kōrero.
+- 📫 Flick me a message at [your_email@example.com], or take a look at [Chillboarders Aotearoa](your_website_link).
+- ⚡ Fun fact: Chillboarders is where skate culture meets tech vibes 🏄‍♂️🔥
 
-Looking forward to connecting with you and collaborating on exciting projects!
+🌿 _Kia kaha_—keep it real and keep growing.
